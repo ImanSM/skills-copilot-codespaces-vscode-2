@@ -8,7 +8,7 @@
 
 const express = require('express');
 const mongoose = require('mongoose');
-const Comment = require('./comment.js');
+const Comment = require('./comments.js');
 const app = express();
 const port = 3000;
 
